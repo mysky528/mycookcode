@@ -1,0 +1,1 @@
+/Users/zhaolu/Code/apache-maven-3.3.9/bin/mvn archetype:generate -DgroupId=com.mycooncode.net.httpclient -DartifactId=httpcilent-java -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
